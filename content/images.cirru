@@ -176,3 +176,13 @@
     :url |https://cos-sh.tiye.me/cos-up/293a717a31f1a5835a61786c94c15355/pasted-2024-03-04T18:34:28.993Z.png
     :address |https://webgpu.art/protea?tab=lamps
     :comment |nil
+  {}
+    :name "|Poincare 4"
+    :url |https://cos-sh.tiye.me/cos-up/b893378f2d02b87c0d20a3b7e3de750c/pasted-2024-03-24T05:54:19.425Z.png
+    :address |https://webgpu.art/soluble?tab=circles
+    :comment |nil
+  {}
+    :name "|Poincare 8"
+    :url |https://cos-sh.tiye.me/cos-up/f538db5c239b69e96bf6a721e20216ac/poincare-8.png
+    :address |https://webgpu.art/soluble?tab=circles
+    :comment |nil

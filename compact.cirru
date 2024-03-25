@@ -25,7 +25,7 @@
                     {}
                       :class-name $ str-spaced css/row style-list
                       :style $ {} (:flex-wrap :wrap) (:margin "\"40px")
-                    -> images-list $ map-indexed
+                    -> images-list .reverse $ map-indexed
                       fn (idx info)
                         [] idx $ comp-image-card info
                   =< nil 120
